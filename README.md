@@ -1,2 +1,2 @@
 # SDK
-SDK for L
+Software Development Kit for The Core
